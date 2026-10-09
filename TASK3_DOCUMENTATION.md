@@ -331,3 +331,28 @@ docker exec backend-container id
 
 Verify Frontend User
 docker exec frontend-container id
+
+
+### 1. Backend Container
+![Backend Container](docs/task3-images/backend%20container.PNG)
+
+### 2. Docker Network
+![Docker Network](docs/task3-images/backend%20network.PNG)
+
+### 3. Docker Volume
+![Docker Volume](docs/task3-images/backend%20volme.PNG)
+
+### 4. MongoDB Connection
+![MongoDB Connection](docs/task3-images/connected%20to%20mongoDB.PNG)
+
+### 5. Docker Images
+![Docker Images](docs/task3-images/docker%20imagesss.PNG)
+
+### 6. Backend Health Check
+![Backend Health Check](docs/task3-images/health%20check.PNG)
+
+### 7. Frontend Health Check
+![Frontend Health Check](docs/task3-images/healthy.PNG)
+
+### 8. Non-Root User Verification
+![Container Users](docs/task3-images/uidd.PNG)
